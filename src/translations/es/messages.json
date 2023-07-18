@@ -1,0 +1,10 @@
+{
+    "error_name" : "el nombre ingresado ${name} no es un formato valido para el registro",
+    "error_ticket": "Ticket invalido",
+    "welcome_message": "Bienvenido",
+    "name_request": "Ingresa tu nombre",
+    "ticket_number": "Ingresa tu numero de ticket",
+    "ticket_image": "Ingresa una foto de tu ticket de compra",
+    "confirm_info": "¿Son correctos los siguientes datos?\n Nombre participante: ${nameParticipant}\n Numero de ticket: ${ticketNumber} ingresa 1 para si y 2 para no",
+    "end_flow": "En un plazo de 24 a 72 horas recibira un mensaje con el status de su participacion"
+}
